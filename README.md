@@ -6,6 +6,8 @@ An Android library for a styleable circular SeekBar widget. The user can initiat
 Example implementation of the Tomtom Maps SDK for Android. It uses the `onMapReady()` callback and `onLocationChanged()` listener to add a cluster of test markers around the current location.
 ### [ListSearchView](https://github.com/retinalfetish/ListSearchView)
 An Android library for a simple SearchView widget extended from AutoCompleteTextView and stylized as such. It can show a drop down list of suggestions from a ListAdapter.
+### [MarqueeView](https://github.com/retinalfetish/MarqueeView)
+Another Android library for a styleable marquee text widget that creates the classic effect but with a few more features. Note that this is not extended from TextView.
 ### [MovableActionButton](https://github.com/retinalfetish/MovableActionButton)
 Yet another Android library for a movable FloatingActionButton widget. The view can be repositioned by the user within the confines of the parent.
 ### [PlasmaFractalView](https://github.com/retinalfetish/PlasmaFractalView)
