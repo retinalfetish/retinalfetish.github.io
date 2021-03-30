@@ -14,3 +14,5 @@ Another Android library for a styleable marquee text widget that creates the cla
 Yet another Android library for a movable FloatingActionButton widget. The view can be repositioned by the user within the confines of the parent.
 ### [PlasmaFractalView](https://github.com/retinalfetish/PlasmaFractalView)
 An Android library to generate and display a plasma cloud fractal within a custom View. It is based on a recursive implementation of the random midpoint displacement method.
+### [StarfieldView](https://github.com/retinalfetish/StarfieldView)
+Another android library widget to generate a classic radial starfield. It features a number of customizable settings and runs a threaded animator to buffer the drawing bitmap.
