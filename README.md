@@ -12,6 +12,8 @@ An Android library for a simple SearchView widget extended from AutoCompleteText
 Another Android library for a styleable marquee text widget that creates the classic effect but with a few more features. Note that this is not extended from TextView.
 ### [MovableActionButton](https://github.com/retinalfetish/MovableActionButton)
 Yet another Android library for a movable FloatingActionButton widget. The view can be repositioned by the user within the confines of the parent.
+### [Nudge](https://github.com/retinalfetish/Nudge)
+A simple Composable replacement for traditional Toast messages in Android. It uses a reversed LazyColumn placed at the bottom and supports four different customizable notification types.
 ### [PlasmaFractalView](https://github.com/retinalfetish/PlasmaFractalView)
 An Android library to generate and display a plasma cloud fractal within a custom View. It is based on a recursive implementation of the random midpoint displacement method.
 ### [StarfieldView](https://github.com/retinalfetish/StarfieldView)
