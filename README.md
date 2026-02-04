@@ -8,6 +8,8 @@ Android library for a widget to recreate the classic Matrix digital rain effect.
 Example implementation of the Tomtom Maps SDK for Android. It uses the `onMapReady()` callback and `onLocationChanged()` listener to add a cluster of test markers around the current location.
 ### [ListSearchView](https://github.com/retinalfetish/ListSearchView)
 An Android library for a simple SearchView widget extended from AutoCompleteTextView and stylized as such. It can show a drop down list of suggestions from a ListAdapter.
+### [Marquee](https://github.com/retinalfetish/Marquee)
+A simple marquee for Android Jetpack Compose that is LTR / RTL aware, with scrolling that only occurs when the content overflows its container.
 ### [MarqueeView](https://github.com/retinalfetish/MarqueeView)
 Another Android library for a styleable marquee text widget that creates the classic effect but with a few more features. Note that this is not extended from TextView.
 ### [MovableActionButton](https://github.com/retinalfetish/MovableActionButton)
