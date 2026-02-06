@@ -4,8 +4,6 @@
 An Android library for a styleable circular SeekBar widget. The user can initiate changes to the progress level by moving a draggable thumb or touching the drawn arc.
 ### [DigitalRain](https://github.com/retinalfetish/DigitalRain)
 Android library for a widget to recreate the classic Matrix digital rain effect. It features a number of customizations for the animation and text.
-### [ExampleMaps](https://github.com/retinalfetish/ExampleMaps)
-Example implementation of the Tomtom Maps SDK for Android. It uses the `onMapReady()` callback and `onLocationChanged()` listener to add a cluster of test markers around the current location.
 ### [ListSearchView](https://github.com/retinalfetish/ListSearchView)
 An Android library for a simple SearchView widget extended from AutoCompleteTextView and stylized as such. It can show a drop down list of suggestions from a ListAdapter.
 ### [Marquee](https://github.com/retinalfetish/Marquee)
