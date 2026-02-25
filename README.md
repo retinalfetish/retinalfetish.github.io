@@ -1,19 +1,20 @@
-# retinalfetish.github.io
-## GitHub Repositories
+# GitHub Repositories
+## Android Jetpack Compose
+### [Marquee](https://github.com/retinalfetish/Marquee)
+A simple marquee for Android Jetpack Compose that is LTR / RTL aware, with scrolling that only occurs when the content overflows its container.
+### [Nudge](https://github.com/retinalfetish/Nudge)
+A simple Composable replacement for traditional Toast messages in Android. It uses a reversed LazyColumn placed at the bottom and supports four different customizable notification types.
+## Android XML View
 ### [CircularSeekBar](https://github.com/retinalfetish/CircularSeekBar)
 An Android library for a styleable circular SeekBar widget. The user can initiate changes to the progress level by moving a draggable thumb or touching the drawn arc.
 ### [DigitalRain](https://github.com/retinalfetish/DigitalRain)
 Android library for a widget to recreate the classic Matrix digital rain effect. It features a number of customizations for the animation and text.
 ### [ListSearchView](https://github.com/retinalfetish/ListSearchView)
 An Android library for a simple SearchView widget extended from AutoCompleteTextView and stylized as such. It can show a drop down list of suggestions from a ListAdapter.
-### [Marquee](https://github.com/retinalfetish/Marquee)
-A simple marquee for Android Jetpack Compose that is LTR / RTL aware, with scrolling that only occurs when the content overflows its container.
 ### [MarqueeView](https://github.com/retinalfetish/MarqueeView)
 Another Android library for a styleable marquee text widget that creates the classic effect but with a few more features. Note that this is not extended from TextView.
 ### [MovableActionButton](https://github.com/retinalfetish/MovableActionButton)
 Yet another Android library for a movable FloatingActionButton widget. The view can be repositioned by the user within the confines of the parent.
-### [Nudge](https://github.com/retinalfetish/Nudge)
-A simple Composable replacement for traditional Toast messages in Android. It uses a reversed LazyColumn placed at the bottom and supports four different customizable notification types.
 ### [PlasmaFractalView](https://github.com/retinalfetish/PlasmaFractalView)
 An Android library to generate and display a plasma cloud fractal within a custom View. It is based on a recursive implementation of the random midpoint displacement method.
 ### [StarfieldView](https://github.com/retinalfetish/StarfieldView)
