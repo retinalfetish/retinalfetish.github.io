@@ -1,5 +1,7 @@
 # GitHub Repositories
 ## Android Jetpack Compose
+### [CircularSlider](https://github.com/retinalfetish/CircularSlider)
+An elliptical slider for Android Jetpack Compose that is LTR / RTL aware, with configurable start and sweep angles and track/thumb thickness.
 ### [Marquee](https://github.com/retinalfetish/Marquee)
 A simple marquee for Android Jetpack Compose that is LTR / RTL aware, with scrolling that only occurs when the content overflows its container.
 ### [Nudge](https://github.com/retinalfetish/Nudge)
